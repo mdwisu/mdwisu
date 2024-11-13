@@ -63,7 +63,7 @@
 
 ![mdwisu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdwisu&theme=dracula&hide_border=true)
 
-![mdwisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&layout=donut)
+![mdwisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&layout=donut&hide=html,php,blade,shell,ejs,hack,pug)
 
 </div>
 
