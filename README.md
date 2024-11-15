@@ -61,7 +61,7 @@
 
 ![mdwisu's Stats](https://github-readme-stats.vercel.app/api?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 
-![mdwisu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdwisu&theme=dracula&hide_border=true)
+<img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdwisu&count_private=true&theme=dracula&hide_border=true" alt="streak stats"/>
 
 ![mdwisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&layout=donut&hide=html,php,blade,shell,ejs,hack,pug)
 
