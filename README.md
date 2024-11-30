@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Next.Js, Vue.Js, Go**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
+💬 Ask me about **Node.js, Express.js React.js, Firebase... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,8 +38,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,express,react,typescript,tailwind,nodejs,mongodb,bootstrap,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,firebase,mysql,docker,vue,postman,sequelize,php" />
-    <img src="https://skillicons.dev/icons?i=go,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,firebase,mysql,docker,,postman,sequelize,php,laravel" />
+    <!-- <img src="https://skillicons.dev/icons?i=go,vue" /> -->
+    <br>
 </div>
 
 <br/>
@@ -62,8 +63,6 @@
 ![mdwisu's Stats](https://github-readme-stats.vercel.app/api?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 
 <img width=400 style={margin-bottom:20px;} src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdwisu&count_private=true&theme=dracula&hide_border=true" alt="streak stats"/>
-
-<br/>
 
 ![mdwisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&layout=donut&hide=html,php,blade,shell,ejs,hack,pug)
 
