@@ -12,7 +12,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Next.Js, Vue.Js, Go**
+ 🌱 I’m currently learning **Nest.Js Next.Js**
 
 💬 Ask me about **Node.js, Express.js React.js, Firebase... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
 
