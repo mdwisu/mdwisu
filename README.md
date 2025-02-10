@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Nest.Js Next.Js**
 
-💬 Ask me about **Node.js, Express.js React.js, Firebase... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
+💬 Ask me about **Node.js, Express.js React.js, Postgree... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
