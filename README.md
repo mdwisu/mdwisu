@@ -2,11 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Dwi%20Susanto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mdwisu.mdwisu" />
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%E2%9C%A8;Always+Learning+New+Tech+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mdwisu&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mdwisu?style=for-the-badge&color=orange" alt="Followers" />
+  </p>
+  
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Dwi+Susanto!;" />
-</h1>
+---
 
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
