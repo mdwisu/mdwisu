@@ -15,35 +15,19 @@
 
 ---
 
-<h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
+## 🎯 About Me
 
-<br/>
-
-<div align="center">
- 
- <!-- 🔭 I’m currently working on **a marketplace** -->
- 
- 🌱 I’m currently learning **Nest.Js Next.Js**
-
-💬 Ask me about **Node.js, Express.js React.js, Postgree... or anything [here](https://github.com/mdwisu/mdwisu/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**    
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:dwisusanto784@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-dwi-susanto-684298201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://mdwisu.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
+```typescript
+const muhammadDwi = {
+    location: "🇮🇩 Indonesia",
+    role: "Full Stack Developer",
+    currentFocus: ["NestJS", "Next.js", "TypeScript"],
+    interests: ["Web Development", "API Design", "UI/UX"],
+    funFact: "Did you know? Game of Thrones Night's Watch cloaks are made from Ikea rugs! ⚔️",
+    openToCollaborate: true,
+    currentlyBuilding: "Something amazing... 🚧"
+};
+```
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
