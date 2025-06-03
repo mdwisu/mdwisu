@@ -23,7 +23,7 @@ const muhammadDwi = {
     role: "Full Stack Developer",
     currentFocus: ["NestJS", "Next.js", "TypeScript"],
     interests: ["Web Development", "API Design", "UI/UX"],
-    funFact: "Did you know? Game of Thrones Night's Watch cloaks are made from Ikea rugs! ⚔️",
+    funFact: "Did you know? Roblox was originally called DynaBlocks! 🎮",
     openToCollaborate: true,
     currentlyBuilding: "Something amazing... 🚧"
 };
