@@ -21,7 +21,7 @@
 const muhammadDwi = {
     location: "🇮🇩 Indonesia",
     role: "Full Stack Developer",
-    currentFocus: ["NestJS", "Next.js", "TypeScript"],
+    currentFocus: ["Go", "NestJS", "Next.js", "TypeScript"],
     interests: ["Web Development", "API Design", "UI/UX"],
     funFact: "Did you know? Roblox was originally called DynaBlocks! 🎮",
     openToCollaborate: true,
