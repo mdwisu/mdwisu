@@ -28,54 +28,98 @@ const muhammadDwi = {
     currentlyBuilding: "Something amazing... 🚧"
 };
 ```
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,express,react,typescript,tailwind,nodejs,mongodb,bootstrap,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=git,javascript,firebase,mysql,docker,postman,sequelize,php,laravel,figma" />
-    <img src="https://skillicons.dev/icons?i=postman,html,css" />
-    <br>
+
+### 🚀 Frontend Mastery
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚡ Backend Power
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🔧 Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<br/>
-<hr/>
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdwisu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,blade,shell,ejs,hack,pug"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdwisu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/mdwisu/mdwisu/output/github-contribution-grid-snake-dark.svg" />
 </div>
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-![mdwisu's Stats](https://github-readme-stats.vercel.app/api?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-<!-- &rank_icon=github -->
-
-<img width=400 style={margin-bottom:20px;} src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdwisu&count_private=true&theme=dracula&hide_border=true" alt="streak stats"/>
-
-![mdwisu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&layout=donut&hide=html,php,blade,shell,ejs,hack,pug)
-
-</div>
-
-
-<br/>
-<br/>
-
-<hr/>
-
-<br/>
+## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+linkedin;+I'am+always+down+in+collab+:)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdwisu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<br/>
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdwisu&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwisusanto784@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dwi-susanto-684298201)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mdwisu.vercel.app)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdwisu)
+  
+  ### 💬 Ask me about anything [here](https://github.com/mdwisu/mdwisu/issues)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Always+open+for+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+</div>
