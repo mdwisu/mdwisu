@@ -19,13 +19,13 @@
 
 ```typescript
 const muhammadDwi = {
-    location: "🇮🇩 Indonesia",
-    role: "Full Stack Developer",
-    currentFocus: ["NestJS", "Next.js", "TypeScript"],
-    interests: ["Web Development", "API Design", "UI/UX"],
-    funFact: "Did you know? Roblox was originally called DynaBlocks! 🎮",
-    openToCollaborate: true,
-    currentlyBuilding: "Something amazing... 🚧"
+  location: "🇮🇩 Indonesia",
+  role: "Full Stack Developer",
+  currentFocus: ["NestJS", "Next.js", "TypeScript"],
+  interests: ["Web Development", "API Design", "UI/UX"],
+  funFact: "Did you know? Roblox was originally called DynaBlocks! 🎮",
+  openToCollaborate: true,
+  currentlyBuilding: "Something amazing... 🚧",
 };
 ```
 
@@ -34,6 +34,7 @@ const muhammadDwi = {
 <div align="center">
 
 ### 🚀 Frontend Mastery
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,6 +42,7 @@ const muhammadDwi = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚡ Backend Power
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -48,6 +50,7 @@ const muhammadDwi = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🗄️ Database & Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,6 +58,7 @@ const muhammadDwi = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 🔧 Development Tools
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -67,8 +71,8 @@ const muhammadDwi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdwisu&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,blade,shell,ejs,hack,pug"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdwisu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdwisu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,blade,shell,ejs,hack,pug"/>
 </div>
 
 <div align="center">
