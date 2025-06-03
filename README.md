@@ -67,8 +67,8 @@ const muhammadDwi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdwisu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css,blade,shell,ejs,hack,pug"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdwisu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwisu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css,blade,shell,ejs,hack,pug"/>
 </div>
 
 <div align="center">
