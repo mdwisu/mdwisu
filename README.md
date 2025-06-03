@@ -60,7 +60,8 @@
 <br>
 <div align=center>
 
-![mdwisu's Stats](https://github-readme-stats.vercel.app/api?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![mdwisu's Stats](https://github-readme-stats.vercel.app/api?username=mdwisu&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<!-- &rank_icon=github -->
 
 <img width=400 style={margin-bottom:20px;} src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdwisu&count_private=true&theme=dracula&hide_border=true" alt="streak stats"/>
 
